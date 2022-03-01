@@ -28,12 +28,6 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 The back-end system shall use JDBC to connect to a Postgres database. The middle tier shall use Javalin technology for dynamic Web application development. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. The middle tier shall follow proper layered architecture, and have reasonable JUnit test coverage of the service layer. Webpages shall be styled to be functional and readable. 
 
-**Stretch Goals (if you'd like to use this technology):**
-
-* Postgres Database shall be hosted remotely on GCP Cloud SQL. 
-
-* Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OTHER.
-
 
 ## Misc Notes
 
@@ -43,7 +37,7 @@ The back-end system shall use JDBC to connect to a Postgres database. The middle
 * Remember the logical progression of our java applications. We tend to go from the main method, to the controller layer, to the service layer, to the DAO (aka repository) layer. There are exceptions to this rule of thumb, but in general it's a good rule to follow, and the skeleton is structured accordingly. 
 
 
-* I (Ben) can only teach you so much -- This project will require you to do a bit of self study (For instance, learning about how enums work. They aren't that scary I promise). Your BEST resource when self studying besides google is each other. You're in teams for a reason! This is a great opportunity to figure out how to articulate your problems to others and help others with their own problems. Web dev is not an introverted role...
+* I (Kevin) can only teach you so much -- This project will require you to do a bit of self study (For instance, learning about how enums work. They aren't that scary I promise). Your BEST resource when self studying besides google is each other. You're in teams for a reason! This is a great opportunity to figure out how to articulate your problems to others and help others with their own problems. Web dev is not an introverted role...
 
 
 * When creating your applications, the diagrams above are simply suggestions for best practice... There are easier and harder ways to implement the same thing. For instance: 
