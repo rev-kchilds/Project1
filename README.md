@@ -45,4 +45,4 @@ The back-end system shall use JDBC to connect to a Postgres database. The middle
     * The Use Case and Activity diagrams are **not** all of the required functionalities you need, but are good to look at to make sure your application is flowing properly. 
 
 
-* Let me reiterate - HELP EACH OTHER! Don't spend 3 hours on the same problem when you could talk it out with your peers after ~1 hour of bashing your head against stackoverflow.com. But of course, do you own work and make sure to actually learn or you'll have a bad time during P2. 
+* Let me reiterate - HELP EACH OTHER! Don't spend 3 hours on the same problem when you could talk it out with your peers after ~1 hour of bashing your head against stackoverflow.com. But of course, do your own work and make sure to actually learn or you'll have a bad time during P2. 
